@@ -200,6 +200,16 @@ Add Nightscout as a data source, type your Nightscout URL.
 
 ## Mac
 
+### [Owlet](https://github.com/kashamalasha/nightscout-widget-electron)
+
+This is a cross-platform application that uses the Nightscout API. It aims to provide a lightweight interface for visualizing T1D measurements (blood sugar levels) and is always placed on top of your screens.
+
+<img src="/nightscout/img/LockOK.png" width="25px" />
+
+<img src="https://raw.githubusercontent.com/kashamalasha/nightscout-widget-electron/main/docs/screenshot-widget.png" width="350px"/>
+
+</br>
+
 ### [Nightscout MacOS Menu Bar](https://github.com/adamd9/Nightscout-MacOS-Menu-Bar)
 
 Show your current BG in the system bar at the top of your screen on Mac (including Loop details). Available directly through the [Apple Store](https://apps.apple.com/au/app/nightscout-menu-bar/id1639776072?mt=12).
@@ -228,6 +238,8 @@ Show your current BG in the menu bar and a nice chart for your historic data. Al
 
 ### [Owlet](https://github.com/kashamalasha/nightscout-widget-electron)
 
+This is a cross-platform application that uses the Nightscout API. It aims to provide a lightweight interface for visualizing T1D measurements (blood sugar levels) and is always placed on top of your screens.
+
 <img src="/nightscout/img/LockOK.png" width="25px" />
 
 <img src="https://raw.githubusercontent.com/kashamalasha/nightscout-widget-electron/main/docs/screenshot-widget.png" width="350px"/>
@@ -239,6 +251,18 @@ Show your current BG in the menu bar and a nice chart for your historic data. Al
 <img src="/nightscout/img/LockOK.png" width="25px" />
 
 <img src="https://user-images.githubusercontent.com/60714349/230734030-d6ae822f-1a48-48d2-8df0-cb168146176b.png" width="500px"/>
+
+</br>
+
+## Linux
+
+### [Owlet](https://github.com/kashamalasha/nightscout-widget-electron)
+
+This is a cross-platform application that uses the Nightscout API. It aims to provide a lightweight interface for visualizing T1D measurements (blood sugar levels) and is always placed on top of your screens.
+
+<img src="/nightscout/img/LockOK.png" width="25px" />
+
+<img src="https://raw.githubusercontent.com/kashamalasha/nightscout-widget-electron/main/docs/screenshot-widget.png" width="350px"/>
 
 </br>
 
