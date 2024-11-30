@@ -17,9 +17,10 @@ Consider a hosted Nightscout service! Check for easier solutions [here](/index.m
 You can create your new Nightscout site in Fly.io.
 
 **Pros**:  
-* Nightscout fits in the free tier  
+* None  
 
 **Cons**:  
+* The Hobby free tier has been removed to pay-as-you-go
 * **Maintaining your site requires the use of command line instructions, not very intuitive**  
 * Fly.io stores variables as secrets: you cannot read them  
 * Relying on the MongoDB Atlas database
@@ -60,7 +61,9 @@ Whenever requested, add one to prove you're a real person:
 
 </br>
 
-Nightscout should run for free within the [allowances](https://fly.io/docs/about/pricing/#free-allowances). If you get billed, please report costs [here](https://github.com/nightscout/nightscout.github.io/issues/new) to have the documentation updated.
+Nightscout will run on the smallest available machine below 5$ per month.
+
+See the pricing [here](https://fly.io/calculator?m=0_0_0_0_0&f=s&a=no_none&b=ams.100&r=shared_0_1_ams&t=10_100_5&u=0_1_100&g=1_shared_730_1_256_ams_0_0).
 
 </br></br>
 
