@@ -7,7 +7,7 @@
 ## Vendors
 
 ```{note}
-Hosted services include everything: platform, database and support.
+[Hosted services](/index.md#nightscout-as-a-service) include everything: platform, database and support.
 ```
 
 You can use a hosting provider that does all of this work for you in exchange for a monthly fee. There are many options available for this. If you're a non-technical person, this is a **great choice**.
@@ -50,7 +50,7 @@ These are the current solutions not involving, or limiting to a strict minimum, 
 Most vendors will require a credit card to authenticate users and avoid abuse.
 ```
 
-[Azure](/vendors/azure/new_user), [Northflank](/vendors/northflank/new_user), [Fly.io](/vendors/fly.io/new_user), [Render](/vendors/render/new_user), [Atlas](/vendors/mongodb/atlas), [Google Cloud](/vendors/google/new_user), [Oracle](https://www.dropbox.com/s/5twlqrndofqno0t/0-amber-oracle.pdf)
+[Azure](/vendors/azure/new_user), [Northflank](/vendors/northflank/new_user), [Render](/vendors/render/new_user), [Atlas](/vendors/mongodb/atlas), [Google Cloud](/vendors/google/new_user), [Oracle](https://www.dropbox.com/s/5twlqrndofqno0t/0-amber-oracle.pdf)
 
 <img src="./img/Comparison2.png"  width="700px" />
 
@@ -64,7 +64,7 @@ These solutions require a monthly fee.
 Paying for a platform doesn't imply your database is included and covered by the plan.
 ```
 
-[Heroku](/vendors/heroku/new_user), [Railway](/vendors/railway/new_user) with [database](/vendors/railway/database), [Northflank database](/vendors/northflank/database) or [NAS](nas)
+[Heroku](/vendors/heroku/new_user), [Railway](/vendors/railway/new_user) with or without a [database](/vendors/railway/database), [Fly.io](/vendors/fly.io/new_user), [Northflank database](/vendors/northflank/database) or [NAS](nas)
 
 <img src="./img/Comparison3.png"  width="700px" />
 
