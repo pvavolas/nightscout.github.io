@@ -8,7 +8,7 @@
 
 Pebble smartwatch use is a historic milestone of CGM in the Cloud. Pebble has been bought by Fitbit in 2016 and necessary resources have moved to archives and [rebble.io](https://rebble.io/). Pebble support is still maintained in Loop, AndroidAPS, FreeAPS and xDrip+.
 
-You still can find the Pebble app for iOS in the [Apple Store](https://apps.apple.com/us/app/pebble/id957997620). For Android you need to download it from [APKMirror](https://www.apkmirror.com/apk/pebble-technology-corp/pebble/pebble-4-4-2-1405-62d45d7d7-endframe-release/pebble-4-4-2-1405-62d45d7d7-endframe-android-apk-download/) or [APKPure](https://apkpure.com/it/pebble/com.getpebble.android.basalt).
+You can't find the Pebble app for iOS in the [Apple Store](https://www.reddit.com/r/pebble/comments/q1e6qx/the_pebble_ios_app_is_now_gone_from_the_app_store/) anymore. For Android you need to download it from [APKMirror](https://www.apkmirror.com/apk/pebble-technology-corp/pebble/pebble-4-4-2-1405-62d45d7d7-endframe-release/pebble-4-4-2-1405-62d45d7d7-endframe-android-apk-download/) or [APKPure](https://apkpure.com/it/pebble/com.getpebble.android.basalt).
 
 For authentication and getting the watchfaces, the original server closed so you'll need to register with [Rebble](https://auth.rebble.io/auth/).
 
